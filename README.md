@@ -3,7 +3,7 @@
 <h3>대한민국의 독특한 문화인 '굿'에 대한 온/오프라인 플레폼<br/> 구슬님과 사용자간의 커뮤니티<h3/>
 
 <br/>
-<a href="https://github.com/Deko252/jumjin/files/13317065/_compressed.pdf">프로젝트 서류</a><br/>
+<a href="https://github.com/Deko252/jumjin/files/13317065/_compressed.pdf">구슬 프로젝트 서류.PDF</a><br/>
 
 ## Development Schedule
 * 기간 : 2023.09.07 ~ 2023.10.29
