@@ -9,7 +9,7 @@
 * 기간 : 2023.09.07 ~ 2023.10.29
 * 인원 : 9명
 
-<img width="800" alt="image" src="https://github.com/Deko252/jumjin/assets/114369279/398ec24b-06bf-4d25-92fa-7ea52d829ecf">
+<img width="800" alt="image" src="https://github.com/Deko252/jumjin/assets/114369279/26bc1bc5-03d7-4a7f-b9bd-51397fd431d6">
 
 ## MEMBERS
 
@@ -48,20 +48,26 @@
 
 ## Images
 ### * 일반회원가입
-<img src="https://github.com/Deko252/jumjin/assets/114369279/4a1042e7-7b2a-4b0d-a8c0-28fe4ed416ba?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/bdcbe175-dfe3-4941-ba50-d119142d5ef4?raw=true">
 
 ### * 구슬회원가입
-<img src="https://github.com/Deko252/jumjin/assets/114369279/34c64774-7aaf-4303-bb8b-651433723194?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/fcd2d332-6d0d-4854-abaf-2f21286c1d16?raw=true">
 
 ### * 네이버로그인/회원가입
-<img src="https://github.com/Deko252/jumjin/assets/114369279/818cccfb-eced-41b5-8d5b-f4c219a42c40?raw=true">
-<img src="https://github.com/Deko252/jumjin/assets/114369279/2d3fd5f6-ba39-43ce-b517-81e338b4afe1?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/ffb1c9a3-2273-419c-8163-9437843d3bb1?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/fe6c124b-d765-4b46-8f1c-b4b3630d3e6d?raw=true">
 
 ### * 아이디찾기/비밀번호찾기
-<img src="https://github.com/Deko252/jumjin/assets/114369279/d08907a8-a14f-443d-a598-38cbc51465d8?raw=true">
-<img src="https://github.com/Deko252/jumjin/assets/114369279/f3ace81c-9ec3-470f-9b14-c28fc768a1b7?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/c257978b-d9ed-4322-88f3-3fcf1f6e7646?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/64426c97-6970-46ab-a021-45933d47726e?raw=true">
 
 ### * 플로팅 메뉴
-<img src="https://github.com/Deko252/jumjin/assets/114369279/140b7287-2c9a-40e3-a004-2a044e4263c3?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/06110054-ed4d-40bc-9f8a-1e5c95d43890?raw=true">
+
+### * 마이페이지
+<img src="https://github.com/Deko252/jumjin/assets/114369279/68f800d6-f117-4637-b9dc-e8f2d1351683?raw=true">
+
+### * 최근 본 구슬님
+<img src="https://github.com/Deko252/jumjin/assets/114369279/6973aeff-9098-4f23-8a80-929438f29357?raw=true">
 
 
