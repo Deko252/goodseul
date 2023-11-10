@@ -64,10 +64,9 @@
 ### * 플로팅 메뉴
 <img src="https://github.com/Deko252/jumjin/assets/114369279/06110054-ed4d-40bc-9f8a-1e5c95d43890?raw=true">
 
-### * 마이페이지
-<img src="https://github.com/Deko252/jumjin/assets/114369279/68f800d6-f117-4637-b9dc-e8f2d1351683?raw=true">
+### * 마이페이지/최근 본 구슬님
+<img src="https://github.com/Deko252/jumjin/assets/114369279/68f800d6-f117-4637-b9dc-e8f2d1351683?raw=true" style="width:250px">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/6973aeff-9098-4f23-8a80-929438f29357?raw=true" style="width:250px">
 
-### * 최근 본 구슬님
-<img src="https://github.com/Deko252/jumjin/assets/114369279/6973aeff-9098-4f23-8a80-929438f29357?raw=true">
 
 
