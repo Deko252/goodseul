@@ -9,11 +9,7 @@
 * 기간 : 2023.09.07 ~ 2023.10.29
 * 인원 : 9명
 
-<img width="800" alt="image" src="https://github.com/itnaupna/wepli/assets/124419012/2ee8e84d-4993-463b-adf6-7e2579fe1478">
-
-### physical ERD
-
-<img width="800" alt="image" src="https://github.com/itnaupna/wepli/assets/124419012/95a364fa-7c19-4b64-844b-f6f6d986feb6">
+<img width="800" alt="image" src="https://github.com/Deko252/jumjin/assets/114369279/398ec24b-06bf-4d25-92fa-7ea52d829ecf">
 
 ## MEMBERS
 
@@ -54,18 +50,18 @@
 ### * 일반회원가입
 <img src="https://github.com/Deko252/jumjin/assets/114369279/4a1042e7-7b2a-4b0d-a8c0-28fe4ed416ba?raw=true">
 
-### * 플레이리스트 생성
-<img src="https://github.com/Deko252/jumjin/assets/114369279/8fe9544c-e381-4973-bf80-dbefeaee2756?raw=true">
+### * 구슬회원가입
+<img src="https://github.com/Deko252/jumjin/assets/114369279/34c64774-7aaf-4303-bb8b-651433723194?raw=true">
 
-### * 플레이리스트 검색페이지
-<img src="https://github.com/Deko252/jumjin/assets/114369279/c3bfadf2-cc8e-45a1-9e68-a19e8c1942f8?raw=true">
+### * 네이버로그인/회원가입
+<img src="https://github.com/Deko252/jumjin/assets/114369279/818cccfb-eced-41b5-8d5b-f4c219a42c40?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/2d3fd5f6-ba39-43ce-b517-81e338b4afe1?raw=true">
 
-### * 플레이리스트 곡추가/곡수정
-<img src="https://github.com/Deko252/jumjin/assets/114369279/4c3043a8-bce3-4380-991b-a10c07b58d36?raw=true">
+### * 아이디찾기/비밀번호찾기
+<img src="https://github.com/Deko252/jumjin/assets/114369279/d08907a8-a14f-443d-a598-38cbc51465d8?raw=true">
+<img src="https://github.com/Deko252/jumjin/assets/114369279/f3ace81c-9ec3-470f-9b14-c28fc768a1b7?raw=true">
 
-### * 플레이리스트 수정
-<img src="https://github.com/Deko252/jumjin/assets/114369279/7d918a6b-e7ed-4a2a-8aa5-40e13ad4447c?raw=true">
+### * 플로팅 메뉴
+<img src="https://github.com/Deko252/jumjin/assets/114369279/140b7287-2c9a-40e3-a004-2a044e4263c3?raw=true">
 
-### * 플레이리스트 수정
-<img src="https://github.com/Deko252/jumjin/assets/114369279/38511c09-e5fb-43ba-bf06-f496ff701329?raw=true">
 
