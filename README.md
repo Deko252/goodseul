@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/npm-F24E1E?style=for-the-badge&logo=npm&c%2B%2B&logoColor=white">
 </div>
 
-### Images
+## Images
 ### * 일반회원가입
 <img src="https://github.com/Deko252/jumjin/assets/114369279/4a1042e7-7b2a-4b0d-a8c0-28fe4ed416ba?raw=true">
 
