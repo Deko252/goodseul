@@ -1,14 +1,13 @@
 
-# WEPLI
-<h3>위플리는 여러 사람들이 함께 노래를 듣거나 영상을 시청할 수 있는 서비스를 제공합니다.<br/> 여러 사람들과 플레이리스트를 공유하고, 함께 음악을 듣고 즐겨보세요.<h3/>
+# GoodSeul
+<h3>대한민국의 독특한 문화인 '굿'에 대한 온/오프라인 플레폼<br/> 구슬님과 사용자간의 커뮤니티<h3/>
 
 <br/>
-<a href="https://www.youtube.com/watch?v=InJvwMtLbrA">유튜브 시연연상</a><br/>
-<a href="wepli.today">배포주소(현재불가능)</a>
+<a href="https://github.com/Deko252/jumjin/files/13317065/_compressed.pdf">프로젝트 서류</a><br/>
 
 ## Development Schedule
-* 기간 : 2023.06.30 ~ 2023.08.04
-* 인원 : 6명
+* 기간 : 2023.09.07 ~ 2023.10.29
+* 인원 : 9명
 
 <img width="800" alt="image" src="https://github.com/itnaupna/wepli/assets/124419012/2ee8e84d-4993-463b-adf6-7e2579fe1478">
 
