@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>유찬민</td>
-    <td>플레이리스트(랭킹,검색,내 플리,생성,수정,상세)</td>
+    <td>로그인,회원가입,풀로팅메뉴,마이페이지,아이디/비밀번호찾기</td>
     <td><a href="https://github.com/Deko252">Deko252</td>
   </tr>
 </table>
@@ -37,43 +37,23 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
   <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
-  <img src="https://img.shields.io/badge/greensock-88CE02?style=for-the-badge&logo=greensock&logoColor=white">
   <img src="https://img.shields.io/badge/recoil-5A29E4?style=for-the-badge&logo=recoil&logoColor=white">
-  <img src="https://img.shields.io/badge/stomp-5A29E4?style=for-the-badge&logo=stomp&logoColor=white">
   <img src="https://img.shields.io/badge/jwt-5A29E4?style=for-the-badge&logo=jwt&logoColor=white">
-</div>
-
-### Back-End
-
-<div>
-  <img src="https://img.shields.io/badge/java 11-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat 9-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-  <img src="https://img.shields.io/badge/mysql 8-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Gradle-c71a36?style=for-the-badge&logo=Gradle&logoColor=white">
-  <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/stomp-5A29E4?style=for-the-badge&logo=stomp&logoColor=white">
-  <img src="https://img.shields.io/badge/jwt-5A29E4?style=for-the-badge&logo=jwt&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
 ### Tools
 <div> 
-  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/npm-F24E1E?style=for-the-badge&logo=npm&c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 </div>
 
 ### Images
-### * 플레이리스트 랭킹페이지
-<img src="https://github.com/Deko252/jumjin/assets/114369279/fb5c1cd7-aa40-47c3-9a59-1ea6205fc596?raw=true">
+### * 일반회원가입
+<img src="https://github.com/Deko252/jumjin/assets/114369279/4a1042e7-7b2a-4b0d-a8c0-28fe4ed416ba?raw=true">
 
 ### * 플레이리스트 생성
 <img src="https://github.com/Deko252/jumjin/assets/114369279/8fe9544c-e381-4973-bf80-dbefeaee2756?raw=true">
