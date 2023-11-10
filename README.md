@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=WEPLI&fontSize=90" />
 
 # WEPLI
 <h3>위플리는 여러 사람들이 함께 노래를 듣거나 영상을 시청할 수 있는 서비스를 제공합니다.<br/> 여러 사람들과 플레이리스트를 공유하고, 함께 음악을 듣고 즐겨보세요.<h3/>
@@ -91,5 +90,3 @@
 ### * 플레이리스트 수정
 <img src="https://github.com/Deko252/jumjin/assets/114369279/38511c09-e5fb-43ba-bf06-f496ff701329?raw=true">
 
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
