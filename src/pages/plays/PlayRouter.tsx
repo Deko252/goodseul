@@ -1,7 +1,9 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { Attendance, PlayBall, PlayShop } from './';
 import PlayRun from '../../component/plays/PlayRun';
+import { floatingStateAtom } from '../../recoil/GoodSeul/GoodSeulAtom';
+import { useRecoilState } from 'recoil';
 
 
 

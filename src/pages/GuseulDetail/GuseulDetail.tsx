@@ -7,11 +7,12 @@ import { RoomIdxAtom, getDetailInfoAtom, getGoodSeulInfoAtom, getIdxAtom, getRoo
 import { decodeToken } from "../../hooks/JWT/JWTType";
 import { goodseulDto } from '../../hooks/Chat/ChatType';
 
-import { GoodSeulIdxAtom } from '../../recoil/GoodSeul/GoodSeulAtom';
+import { GoodSeulIdxAtom, floatingStateAtom } from '../../recoil/GoodSeul/GoodSeulAtom';
 
 import { useNavigate,JWTDecoding,useRecoilValue,useRecoilState} from './index';
 import { useParams } from 'react-router-dom';
 import { RecentlyViewedApi } from '../../apis/MyPage/myPage';
+import { goodseulLikeApi } from '../../apis/GoodseulDetail/GoodseulDtailApis';
 
 function GuseulDetail() {
 
@@ -34,7 +35,7 @@ function GuseulDetail() {
     const [idx,setIdx] = useRecoilState(getIdxAtom);
     // 방만들때 res 값 받아오기
     const [res, setRes] = useRecoilState<string>(RoomIdxAtom);
-
+    const [floatingState , setFloatingState] = useRecoilState(floatingStateAtom);
 
 
     const handleChat = async () => {
@@ -72,7 +73,13 @@ function GuseulDetail() {
         }
 
         fetchData();
+        setFloatingState(false);
     }, []);
+
+    const likeGoodseul = async () => {
+        await goodseulLikeApi(Number(index.index));
+    }
+
 
     return (
 
@@ -130,8 +137,8 @@ function GuseulDetail() {
                             상담신청
                         </div>
 
-                        <div className='GuseulDetailLike'>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="25" viewBox="0 0 29 25" fill="none">
+                        <div className='GuseulDetailLike' onClick={likeGoodseul}>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="29" height="25" viewBox="0 0 29 25" fill="none" >
                                 <path d="M25.0244 1.40344C21.2843 -1.14658 16.666 0.0434272 14.1726 2.96178C11.6793 0.0434272 7.06089 -1.16075 3.32086 1.40344C1.33751 2.76345 0.0908367 5.05847 0.00583597 7.48099C-0.192499 12.9777 4.68088 17.3836 12.1184 24.1411L12.2601 24.2686C13.3368 25.2461 14.9943 25.2461 16.071 24.2545L16.2268 24.1128C23.6644 17.3694 28.5236 12.9635 28.3394 7.46682C28.2544 5.05847 27.0077 2.76345 25.0244 1.40344ZM14.3143 22.0303L14.1726 22.1719L14.031 22.0303C7.28756 15.9244 2.83919 11.8869 2.83919 7.79266C2.83919 4.9593 4.96421 2.83428 7.79757 2.83428C9.97925 2.83428 12.1043 4.2368 12.8551 6.17765H15.5043C16.241 4.2368 18.366 2.83428 20.5477 2.83428C23.381 2.83428 25.506 4.9593 25.506 7.79266C25.506 11.8869 21.0577 15.9244 14.3143 22.0303Z" fill="#F2F2F2" />
                             </svg>
                         </div>

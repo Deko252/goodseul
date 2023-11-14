@@ -42,17 +42,18 @@ import MyPagePay from './pages/MyPage/MyPagePay';
 import MyPageAdminChat from './pages/MyPage/MyPageAdminChat';
 import SocialNaverCallback from './apis/SignUp/SocialNaverCallback';
 import SocialSignUp from './component/SignUp/SocialSignUp';
+import { floatingStateAtom } from './recoil/GoodSeul/GoodSeulAtom';
 
 
 
 function App() {
 
   const isPathTure = useRecoilValue<boolean>(isPathTrueAtom);
-
+  const floatingState = useRecoilValue(floatingStateAtom);
   return (
     <BrowserRouter>
       <Header/>
-      <Floatingmenu/>
+      {floatingState && <Floatingmenu/>}
       <Routes>
         <Route path='/' element={<Main />} />
         <Route path='/play' element={<PlayMain />} />

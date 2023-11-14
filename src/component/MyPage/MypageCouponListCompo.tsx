@@ -31,7 +31,7 @@ const MypageCouponListCompo = () => {
       {MyPageCouponListValue.map((couponlist,idx)=>
         <div key={idx} className='MyPageCouponSectionBox'>
           <div className='CouponImgbox'>
-            <img className='couponimg' src={`http://dopeboyzclub.ddns.net:7733/images/${couponlist.image}`} alt='쿠폰' />
+            <img className='couponimg' src={`http://dopeboyzclub.ddns.net:7733/coupon/${couponlist.image}`} alt='쿠폰' />
           </div>
 
           <div className='CouponDescriptbox'>
